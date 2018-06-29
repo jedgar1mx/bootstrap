@@ -11,11 +11,11 @@
 - name: orange
   hex: "#fd7e14"
 - name: yellow
-  hex: "#ffc107"
+  hex: "#feb70d"
 - name: green
-  hex: "#28a745"
+  hex: "#004445"
 - name: teal
-  hex: "#20c997"
+  hex: "#9fd5b3"
 - name: cyan
   hex: "#17a2b8"
 - name: white
